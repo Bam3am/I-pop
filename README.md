@@ -1,1 +1,1 @@
-join and start a mineng pool 
+join mining pool 
